@@ -12,6 +12,7 @@ function setGradient() {
 	+ colour2.value
 	+ ")";
 
+
 	css.textContent = body.style.background + ";";
 }
 
